@@ -1,0 +1,12 @@
+if() ifa ia 333 aaa
+
+if(x) 444
+
+// hello world
+if (x) {
+	4/4 * 3;
+}
+
+while(x == 8) {
+	x = x + 2;
+}
